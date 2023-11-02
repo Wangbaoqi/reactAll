@@ -30,7 +30,7 @@ class Layout extends React.Component {
                 <a href={`/ClassPart`}>ClassComponents</a>
               </li>
               <li>
-                <a href={`/contacts/2`}>Your Friend</a>
+                <a href={`/pattern/singleton`}>singleton pattern</a>
               </li>
             </ul>
           </nav>
